@@ -11,7 +11,7 @@
   <h3 align="center">Player Management</h3>
 </div>
 <!-- TODO: Make a short description -->
-<div align="center">Our website is a player management tool where you can store and sort up to 10 players based on their name, score, or level. It's designed for easy organization and tracking of player details.
+<div align="center">Our website is a player management tool where you can store and sort up to 10 players by their name, score, or level. It helps you easily organize and track player details. You can also search for a player's name in the search bar.
 </div>
 
 <br />
