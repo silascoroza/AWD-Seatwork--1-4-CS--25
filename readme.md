@@ -69,8 +69,7 @@ The purpose of this project is to provide an easy-to-use platform for managing a
 
 - What are key components
 
-Homepage
-Player Management Page
+MultiPage Website
 Sorting
 Search Function
 Navigation
