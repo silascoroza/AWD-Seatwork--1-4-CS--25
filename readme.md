@@ -21,7 +21,7 @@
 ![](https://github.com/silascoroza/AWD-Seatwork--1-4-CS-25)
 
 
-[![wakatime](https://wakatime.com/@31286ad9-10c2-48f3-8e50-8a7779687ae5/projects/ukoiqnwgqg?start=2025-02-01&end=2025-02-07)]
+[![wakatime](https://wakatime.com/badge/user/31286ad9-10c2-48f3-8e50-8a7779687ae5/project/fafb6f39-f99e-4807-9b88-7470bcec3a0a.svg)]
 
 ---
 
